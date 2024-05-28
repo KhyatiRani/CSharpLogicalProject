@@ -1,0 +1,14 @@
+C:\Users\khyati.rani\source\repos\PossibleSubstring\PossibleSubstring\obj\Debug\net8.0\PossibleSubstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khyati.rani\source\repos\PossibleSubstring\PossibleSubstring\obj\Debug\net8.0\PossibleSubstring.AssemblyInfoInputs.cache
+C:\Users\khyati.rani\source\repos\PossibleSubstring\PossibleSubstring\obj\Debug\net8.0\PossibleSubstring.AssemblyInfo.cs
+C:\Users\khyati.rani\source\repos\PossibleSubstring\PossibleSubstring\obj\Debug\net8.0\PossibleSubstring.csproj.CoreCompileInputs.cache
+C:\Users\khyati.rani\source\repos\PossibleSubstring\PossibleSubstring\bin\Debug\net8.0\PossibleSubstring.exe
+C:\Users\khyati.rani\source\repos\PossibleSubstring\PossibleSubstring\bin\Debug\net8.0\PossibleSubstring.deps.json
+C:\Users\khyati.rani\source\repos\PossibleSubstring\PossibleSubstring\bin\Debug\net8.0\PossibleSubstring.runtimeconfig.json
+C:\Users\khyati.rani\source\repos\PossibleSubstring\PossibleSubstring\bin\Debug\net8.0\PossibleSubstring.dll
+C:\Users\khyati.rani\source\repos\PossibleSubstring\PossibleSubstring\bin\Debug\net8.0\PossibleSubstring.pdb
+C:\Users\khyati.rani\source\repos\PossibleSubstring\PossibleSubstring\obj\Debug\net8.0\PossibleSubstring.dll
+C:\Users\khyati.rani\source\repos\PossibleSubstring\PossibleSubstring\obj\Debug\net8.0\refint\PossibleSubstring.dll
+C:\Users\khyati.rani\source\repos\PossibleSubstring\PossibleSubstring\obj\Debug\net8.0\PossibleSubstring.pdb
+C:\Users\khyati.rani\source\repos\PossibleSubstring\PossibleSubstring\obj\Debug\net8.0\PossibleSubstring.genruntimeconfig.cache
+C:\Users\khyati.rani\source\repos\PossibleSubstring\PossibleSubstring\obj\Debug\net8.0\ref\PossibleSubstring.dll
